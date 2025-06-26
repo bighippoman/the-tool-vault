@@ -214,9 +214,9 @@ npm start
 
 ## 📞 Support
 
-- 📧 Email: support@tooltarget.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/the-tool-vault/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/the-tool-vault/discussions)
+- 📧 Email: jnordq@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/bighippoman/the-tool-vault/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/bighippoman/the-tool-vault/discussions)
 
 ---
 
