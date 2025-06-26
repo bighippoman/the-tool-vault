@@ -1,0 +1,3 @@
+// This file has been moved to backup as we've migrated to full SSR
+// The tool page now renders server-side for optimal SEO
+// Original ToolPageClient.tsx functionality is no longer needed
